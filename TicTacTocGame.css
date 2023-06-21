@@ -1,0 +1,21 @@
+table {
+  width: 600px;
+  height: 600px;
+}
+tr {
+  display: flex;
+}
+td {
+  cursor: pointer;
+  display: flex;
+  background-color: beige;
+  justify-content: center;
+  align-items: center;
+  width: 230px;
+  height: 230px;
+  margin: 10px;
+}
+img {
+  width: auto;
+  height: 150px;
+}
